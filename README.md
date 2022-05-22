@@ -6,7 +6,7 @@ git clone https://github.com/Dark-Copy-Code/vendetta-dnc
 
 
 
-cd vendetta
+cd vendetta-dnc
 
 
 bash install.sh

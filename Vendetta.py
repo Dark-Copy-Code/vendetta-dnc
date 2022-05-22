@@ -9,7 +9,6 @@ import time
 
 
 from termcolor import colored
-import init
 import time
 import os
 print("head...")

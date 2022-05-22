@@ -2,7 +2,8 @@
 УстаноVка:
 
 
-git clone https://github.com/Dark-Copy-Code/vendetta
+git clone https://github.com/Dark-Copy-Code/vendetta-dnc
+
 
 
 cd vendetta

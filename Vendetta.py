@@ -2,13 +2,12 @@ import requests
 from threading import Thread
 import random
 import os
-import colored
-import colorama
+
 import time
 
-import requests
-from threading import Thread
-import random
+
+
+
 from termcolor import colored
 import init
 import time

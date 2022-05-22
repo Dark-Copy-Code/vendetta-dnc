@@ -13,4 +13,4 @@ bash install.sh
 
 Zапуск
 
-python Vendeta.py
+python Vendetta.py

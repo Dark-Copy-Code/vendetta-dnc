@@ -3,3 +3,4 @@ apt install python
 echo Установка requests...
 pip install requests
 pip install init
+pip install colored
